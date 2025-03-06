@@ -1,5 +1,6 @@
+python=3.12
 streamlit
 keras
-sklearn
+scikit-learn
 matplotlib
 numpy
